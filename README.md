@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, 我是 Hvvj
+# Hi, I'm Hvvj
 
-電子系電腦宅宅
+tech geek
 
 </div>
 
@@ -10,12 +10,12 @@
 
 ### About Me
 
-電子工程學系在學中，平常喜歡研究電腦軟硬體
+Electronic Engineering student，like computer software and hardware
 
 
-- 現在在學：計算機組織、作業系統、電腦圖學、資安
-- 長期目標：硬體與韌體資安、GPU韌體
-- 歡迎跟我聊：電腦軟硬體、Linux ricing、終端機工作流等
+- studying：computer organization、operating system、computer graphics、cyber security
+- long term goals：hardware and firmware security、GPU firmware
+- I like to talk：software and hardware、Linux ricing、terminal work flow
 
 ---
 
