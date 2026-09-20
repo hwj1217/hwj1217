@@ -2,7 +2,7 @@
 
 # Hi, I'm Hvvj
 
-tech geek
+EE student, way too into computers
 
 </div>
 
@@ -10,12 +10,12 @@ tech geek
 
 ### About Me
 
-Electronic Engineering student，like computer software and hardware
+An Electronic Engineering student who likes digging into computer software and hardware.
 
 
-- studying：computer organization、operating system、computer graphics、cyber security
-- long term goals：hardware and firmware security、GPU firmware
-- I like to talk：software and hardware、Linux ricing、terminal work flow
+- **Currently studying:**computer organization, operating systems, computer graphics, cybersecurity
+- **Long-term goals:**hardware and firmware security, GPU firmware
+- **Happy to chat about:**software and hardware, Linux ricing, terminal workflows
 
 ---
 
@@ -30,5 +30,5 @@ Electronic Engineering student，like computer software and hardware
 ---
 
 <div align="center">
-<sub>keep update</sub>
+<sub>Work in progress</sub>
 </div>
