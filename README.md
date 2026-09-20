@@ -13,9 +13,9 @@ EE student, way too into computers
 An Electronic Engineering student who likes digging into computer software and hardware.
 
 
-- **Currently studying:**computer organization, operating systems, computer graphics, cybersecurity
-- **Long-term goals:**hardware and firmware security, GPU firmware
-- **Happy to chat about:**software and hardware, Linux ricing, terminal workflows
+- Currently studying : computer organization, operating systems, computer graphics, cybersecurity
+- Long-term goals : hardware and firmware security, GPU firmware
+- Happy to chat about : software and hardware, Linux ricing, terminal workflows
 
 ---
 
