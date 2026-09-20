@@ -30,5 +30,5 @@ Electronic Engineering student，like computer software and hardware
 ---
 
 <div align="center">
-<sub>持續更新中</sub>
+<sub>keep update</sub>
 </div>
